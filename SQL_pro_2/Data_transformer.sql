@@ -6,7 +6,7 @@ Purpose      : Data Management
 
 ====================================================
 */
-DROP DATABASE data_transformer;
+
 
 -- DATABASE CREATION
 CREATE DATABASE data_transformer;
