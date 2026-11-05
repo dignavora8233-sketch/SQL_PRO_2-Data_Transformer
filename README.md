@@ -138,6 +138,9 @@ Through this project, I improved my understanding of:
 - Create views for frequently used queries.
 - Add stored procedures and triggers.
 - Develop a simple reporting dashboard.
+## Explanation Video :
+
+https://drive.google.com/file/d/1zONTGtnlA5FCBvlKvauKFS9-YQo62s9-/view?usp=sharing
 
 ## 👩‍💻 Author
 
